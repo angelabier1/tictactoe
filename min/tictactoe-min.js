@@ -1,1 +1,1 @@
-$(document).ready(function(){});
+var person="x",computer="o",compMove,turn=0;$(document).ready(function(){});
